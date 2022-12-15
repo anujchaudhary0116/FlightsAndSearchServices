@@ -1,2 +1,1 @@
-// Database config setup
-// comment to commit
+//Database config setup
